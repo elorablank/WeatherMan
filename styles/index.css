@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(lightslategrey, rgb(35, 35, 144));
+    background-attachment: fixed;
+}
+
+section {
+    margin-top: 1rem;
+    border-top: 3px dotted white;
+}
+
+footer {
+    margin-top: 1rem;   
+}
